@@ -16,7 +16,7 @@ I’ve built projects across **Excel, SQL, Python, and Power BI** that showcase 
 
 ## Portfolio Projects
 
-### 1. [Superstore Sales Dashboard (Excel)]((https://github.com/prudchi/Superstore-Sales-Analysis))
+### 1. [Superstore Sales Dashboard (Excel)](https://github.com/prudchi/Superstore-Sales-Analysis)
 
 * Cleaned and transformed dataset with **Power Query**
 * Built an interactive **Excel dashboard** using pivot tables and charts
