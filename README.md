@@ -42,7 +42,7 @@ I’ve built projects across **Excel, SQL, Python, and Power BI** that showcase 
 
 ---
 
-##  Let’s Connect!
+## 🌍 Let’s Connect!
 
 * **LinkedIn**: [www.linkedin.com/in/prudence-chishiri-7b466a384]
 * **GitHub**: You’re already here 🙂
